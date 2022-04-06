@@ -32,13 +32,27 @@
     padding: 10px 30px;
     border-radius: 10px;
 }
-.categorise h1 {
+.categories h1 {
     color:#fff;
 }
-.categorise img {
+.categories img {
     width: 100px;
 }
 .card {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer {
+    border: none;
+    background-color: #fff;
+}
+#subscribe {
+    height: 300px;
+}
+#subscribe h6 {
+    color: gray;
+}
+footer{
+    text-align: center;
 }
